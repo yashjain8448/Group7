@@ -1,3 +1,6 @@
+// Command to run through docker
+// docker run -it exam_management_system
+
 #include <iostream>
 #include <vector>
 #include <string>
